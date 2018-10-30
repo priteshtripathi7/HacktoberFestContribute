@@ -1,0 +1,49 @@
+.header{
+	display: flex;
+	background-color: #2BA1C1;
+	color: white;
+}
+.img-contain{
+	margin: 1em;
+}
+.menuitem{
+	border-left: 10px solid #706F73;
+	background-color: #E5E5E6;
+	padding: 10px;
+}
+.main{
+	display: flex;
+	height: 480px;
+}
+.menu{
+	min-width: 18%;
+	background-color: #BBE0F3;
+}
+.menu a{
+	padding: 10px;
+	text-decoration: none; 
+	color: black;
+}
+.content{
+	min-width: 60%;
+	margin: 0px 5px; 
+}
+.ads{
+	min-width: 18%;
+	background-color: #BBE0F3;
+	text-align: center;
+}
+.ads img{
+	margin: 8px 3px;
+}
+.footer{
+	background-color: #858382;
+	color: white;
+	padding: 10px;
+}
+iframe{
+	border: none;
+}
+.menu div:hover{
+	background-color: #F3CF2D;
+}
